@@ -1,5 +1,4 @@
 #15 Days Forecast Super_Store_Sales_Dashboard
-Super_Store_Sales_Dashboard
 
 ![Super Store Sales Dashboard Forecast 15 Days](https://github.com/Zeeshan-Raza/Super_Store_Sales_Dashboard/assets/94892875/707146c6-2b5f-4637-a70e-03aa8c96739c)
 ![Super Store Sales Dashboard Forecast 15 Days (2)](https://github.com/Zeeshan-Raza/Super_Store_Sales_Dashboard/assets/94892875/f1983b25-1a06-46b2-898e-7d672f940527)
